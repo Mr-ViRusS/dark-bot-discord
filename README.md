@@ -1,2 +1,3 @@
 # dark-bot-discord
-discord.py bot
+Discord.py bot 
+یک بات ایرانی پایتون
